@@ -8,7 +8,7 @@ html {
 #root {
   display: flex;
   justify-content: center;
-  background-color: rgba(234, 229, 202, 0.542);
+  background-color: rgb(247, 246, 241);
   min-height: 100vh;
 }
 
